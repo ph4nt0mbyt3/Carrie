@@ -6,7 +6,7 @@ C# Anti-Malware Multi-Process Killer (BYOVD)
 
 
 
-This code is designed to kill multiple process based on Company Name of the process, and can be changed to use Description instead
+This code is designed to kill multiple process based on Company Name of the processes, and can be changed to use Description instead.
 
 ```
  static List<uint> GetProcessIdsByCompanyName(string companyName)
@@ -49,4 +49,4 @@ sc start KevP64
 Carrie.exe
 ```
 
-3) Type the Company/Description name of the EDR/AV Vendor till you receive "Can't find any process related
+3) Type the CompanyName propertie of the process owner or description until you receive the message "Can't find any process related, try again". This means that all processes belonging to the provided CompanyName/Description are no longer running. 
