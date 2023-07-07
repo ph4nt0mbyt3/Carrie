@@ -1,7 +1,8 @@
 # Carrie
 C# Anti-Malware Multi-Process Killer (BYOVD)
 
-![image](https://github.com/ph4nt0mbyt3/Carrie/assets/137841478/d675538a-1470-4e9d-865c-0ba771cf20ab)
+![image](https://github.com/ph4nt0mbyt3/Carrie/assets/137841478/254bba01-6cc3-4981-af94-d2cd3c336af8)
+
 
 
 
